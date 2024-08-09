@@ -31,8 +31,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorcode&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/victorbrasileirooo)](www.linkedin.com/in/victorbrasileirooo)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valb1@ic.ufal.br)](mailto:valb1@ic.ufal.br)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([[LINK-DO-SEU-GITHUB](https://github.com/VictorBrasileiroo)](https://github.com/VictorBrasileiroo))
