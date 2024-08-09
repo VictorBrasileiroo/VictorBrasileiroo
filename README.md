@@ -2,9 +2,8 @@
 # Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Estudando Ciência da Computação na Universidade Federal de Alagoas.
+- 🌱 Aprendendo mais sobre Aprendizado de Máquina e Processamento de Linguagem Natural.
 
 ## Minhas Skills
 
@@ -14,6 +13,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB)
 
 **DevOps**
 
@@ -33,6 +33,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/victorbrasileirooo)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:valb1@ic.ufal.br)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([LINK-DO-SEU-GITHUB](https://github.com/VictorBrasileiroo))
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/victorbrasileirooo)](www.linkedin.com/in/victorbrasileirooo)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valb1@ic.ufal.br)](mailto:valb1@ic.ufal.br)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)]([[LINK-DO-SEU-GITHUB](https://github.com/VictorBrasileiroo)](https://github.com/VictorBrasileiroo))
