@@ -2,6 +2,9 @@
 <h2 align="center">Hi 👋! My name is Victor and I'm a Front-End Developer</h2>
 
 ###
+<h6 align="center">Explorador de novas tecnologias e desenvolvedor de soluções de software. Estudante de Ciência da Computação na Universidade Federal de Alagoas, com interesse em Desenvolvimento Web, voltado para o Front-End.</h6>
+
+### 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VictorBrasileiroo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -46,8 +49,6 @@
 <br clear="both">
 
 ###
-
-<h6 align="center">Explorador de novas tecnologias e desenvolvedor de soluções de software. Estudante de Ciência da Computação na Universidade Federal de Alagoas, com interesse em Desenvolvimento Web, voltado para o Front-End.</h6>
 
 ###
 
