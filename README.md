@@ -1,33 +1,57 @@
 
-# Sobre mim
+<h2 align="center">Hi 👋! My name is Victor and I'm a Front-End Developer</h2>
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computação na Universidade Federal de Alagoas.
-- 🌱 Aprendendo mais sobre Aprendizado de Máquina e Processamento de Linguagem Natural.
+###
 
-## Minhas Skills
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorBrasileiroo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorBrasileiroo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-**Aplicações e dados**
+###
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=3776AB)
+<img align="left" height="200" src="https://media1.giphy.com/media/l41lPc9dT91glxsmQ/giphy.gif?cid=6c09b9525bwre3l15f0zmk38z60ati336syvp9i8pztwufux&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"  />
 
-**DevOps**
+###
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-**Ferramentas de desenvolvimento**
+###
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+<div align="center">
+    <a href="https://www.instagram.com/victorbrasileiroo/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/></a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-<br/>
+###
 
-<a href="https://github.com/iuricode" title="Perfil do Victor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorcode&theme=dracula&show_icons=true" />
-</a>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/VictorBrasileiroo/VictorBrasileiroo/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h6 align="center">Explorador de novas tecnologias e desenvolvedor de soluções de software. Estudante de Ciência da Computação na Universidade Federal de Alagoas, com interesse em Desenvolvimento Web, voltado para o Front-End.</h6>
+
+###
 
