@@ -1,8 +1,3 @@
-
-
-###
-<h6 align="center">Explorador de novas tecnologias e desenvolvedor de soluções de software. Estudante de Ciência da Computação na Universidade Federal de Alagoas, com interesse em Desenvolvimento Web, voltado para o Front-End.</h6>
-
 ### 
 
 <div align="center">
