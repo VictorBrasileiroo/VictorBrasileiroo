@@ -1,6 +1,8 @@
 ## Opa, eu sou Victor Brasileiro, desenvolvedor React e estudante de Ciência da Computação!
 <p>Saiba mais sobre mim através do meu portifólio!</p>
-<a href='https://victorbrasileiroo.github.io/MyPortifolio/'></a>
+
+<h3><a href="https://victorbrasileiroo.github.io/MyPortifolio/"></a></h3>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
