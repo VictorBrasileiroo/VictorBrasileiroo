@@ -1,7 +1,8 @@
 <img src="background.svg">
 
-## Opa, eu sou Victor Brasileiro, desenvolvedor React e estudante de Ciência da Computação!
-<p>Saiba mais sobre mim através do meu portifólio!</p>
+## Opa, eu sou Victor Brasileiro, Desenvolvedor FullStack e Estudante de Ciência da Computação!
+
+<h3>Saiba mais sobre mim através do meu portifólio!</h3>
 
 <h4><a href='https://portifoliovictorbrasileiro.netlify.app/'>Clique aqui para visitar meu portifólio</a></h4>
 
