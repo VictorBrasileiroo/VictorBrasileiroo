@@ -4,7 +4,7 @@
 
 <h3>Saiba mais sobre mim através do meu portifólio!</h3>
 
-<h3><a href='https://portifoliovictorbrasileiro.netlify.app/'>Clique aqui para visitar meu portifólio</a></h3>
+<h3><a href='https://portifoliovictorbrasileiroo.netlify.app/'>Clique aqui para visitar meu portifólio</a></h3>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
