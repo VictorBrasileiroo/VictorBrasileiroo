@@ -1,17 +1,17 @@
 <img src="background.svg">
 
-## Opa, eu sou Victor Brasileiro, Desenvolvedor FullStack e Estudante de Ciência da Computação!
+## Opa, eu sou Victor Brasileiro, Desenvolvedor Backend e Estudante de Ciência da Computação!
 
 <h3>Saiba mais sobre mim através do meu portifólio!</h3>
 
 <h3><a href='https://portifoliovictorbrasileiroo.netlify.app/'>Clique aqui para visitar meu portifólio</a></h3>
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">  
    <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
