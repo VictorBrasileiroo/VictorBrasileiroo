@@ -7,7 +7,7 @@
 <h3><a href='https://portifoliovictorbrasileiroo.netlify.app/'>Clique aqui para visitar meu portifólio</a></h3>
 
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,c,python,django,postgresql,azure,aws,docker,git,github,npm,postman,visualstudio,react,javascript,tailwindcss">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,fastapi,postgresql,azure,aws,docker,git,github,npm,postman,visualstudio,react,javascript,tailwindcss">
 </div>
   
   ##
