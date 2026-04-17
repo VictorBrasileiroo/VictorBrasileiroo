@@ -1,22 +1,39 @@
-<img src="background.svg">
+<img src="background.svg" alt="Banner do perfil" />
 
-## Opa, eu sou Victor Brasileiro, Desenvolvedor Backend e Estudante de Ciência da Computação!
+# Olá, eu sou Victor Brasileiro 👋
 
-<h3>Saiba mais sobre mim através do meu portifólio!</h3>
+Sou estudante de **Ciência da Computação na UFAL** e atuo como **desenvolvedor backend**, com experiência em construção de APIs, implementação de regras de negócio, integração entre módulos e pesquisa aplicada em dados.
 
-<h3><a href='https://portifoliovictorbrasileiroo.netlify.app/'>Clique aqui para visitar meu portifólio</a></h3>
+Meu foco principal está em **Java** e **Python**, desenvolvendo soluções orientadas a problemas reais, com backend como eixo central e dados como diferencial.
 
-<div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,fastapi,postgresql,azure,aws,docker,git,github,npm,postman,visualstudio,react,javascript,tailwindcss">
-</div>
-  
-  ##
- 
-<div> 
-    <a href="https://www.linkedin.com/in/victorbrasileirooo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/victorbrasileiroo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/mXdCsFuh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dev.victorbrasileiroo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  
+## 🚀 Áreas de foco
+- Backend com **Java** e **Spring Boot**
+- Desenvolvimento de APIs REST
+- Modelagem de regras de negócio
+- Integração entre módulos e serviços
+- Pesquisa aplicada em dados e **Machine Learning**
+
+## 🛠️ Tecnologias principais
+<div style="display: inline_block">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgresql,docker,git,github,postman" />
 </div>
 
+## 📌 Projetos em destaque
+- **[DoseMeAI](https://github.com/VictorBrasileiroo/Projeto_DoseMeAI)**  
+  Backend para gerenciamento de medicamentos e lembretes, com autenticação JWT, documentação Swagger e deploy com Docker Compose.
+
+- **[Ilumina](https://github.com/VictorBrasileiroo/projeto_ilumina_p3)**  
+  Plataforma educacional com geração automática de avaliações e flashcards via LLM, gerenciamento de turmas e publicação de conteúdo.
+
+- **[Observatório de Permanência](https://github.com/VictorBrasileiroo/Projeto_Observatorio_de_Permanencia)**  
+  Plataforma para predição e monitoramento de risco de evasão estudantil, combinando API backend, dashboard e machine learning aplicado.
+
+## 🌐 Links
+- **[Portfólio](https://portifoliovictorbrasileiroo.netlify.app/)**
+- **[LinkedIn](https://www.linkedin.com/in/victorbrasileirooo/)**
+- **[E-mail](mailto:dev.victorbrasileiroo@gmail.com)**
+
+## 📚 Atualmente
+- Aprofundando conhecimentos em backend com **Java/Spring Boot**
+- Desenvolvendo projetos com **Python** e dados aplicados
+- Evoluindo minha base em arquitetura, APIs e sistemas orientados a dados
