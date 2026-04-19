@@ -1,6 +1,6 @@
 <img src="background.svg" alt="Banner do perfil" />
 
-# Olá, eu sou Victor Brasileiro 👋
+# Opa, eu sou Victor Brasileiro 👋
 
 Sou estudante de **Ciência da Computação na UFAL** e atuo como **desenvolvedor backend**, com experiência em construção de APIs, implementação de regras de negócio, integração entre módulos e pesquisa aplicada em dados.
 
