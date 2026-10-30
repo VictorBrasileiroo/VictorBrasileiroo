@@ -9,7 +9,7 @@ Meu foco principal está em **Java** e **Python**, desenvolvendo soluções orie
 
 ## 🚀 Áreas de foco
 
-- Desenvolvimento back-end e engenharia de software
+- Desenvolvimento backend e engenharia de software
 - Construção de APIs REST | Regras de negócio | Integração de sistemas
 - Desenvolvimento de aplicações com Java | Spring Boot | Node.js | NestJS
 - Ciência de Dados | Machine Learning | Análise de séries temporais
