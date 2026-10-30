@@ -6,34 +6,43 @@ Sou estudante de **Ciência da Computação na UFAL** e atuo como **desenvolvedo
 
 Meu foco principal está em **Java** e **Python**, desenvolvendo soluções orientadas a problemas reais, com backend como eixo central e dados como diferencial.
 
+
 ## 🚀 Áreas de foco
-- Backend com **Java** e **Spring Boot**
-- Desenvolvimento de APIs REST
-- Modelagem de regras de negócio
-- Integração entre módulos e serviços
-- Pesquisa aplicada em dados e **Machine Learning**
+
+- Desenvolvimento back-end e engenharia de software
+- Construção de APIs REST | Regras de negócio | Integração de sistemas
+- Desenvolvimento de aplicações com Java | Spring Boot | Node.js | NestJS
+- Ciência de Dados | Machine Learning | Análise de séries temporais
+- Inteligência Artificial aplicada | LLMs | Modelos locais e multimodais
+- Pesquisa aplicada e experimentação com modelos de IA
 
 ## 🛠️ Tecnologias principais
+
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,postgresql,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,nestjs,python,fastapi,react,postgres,docker,git,github,postman" />
 </div>
 
+**Dados & IA:** Pandas | scikit-learn | Machine Learning | LLMs | Ollama | Transformers
+
 ## 📌 Projetos em destaque
-- **[DoseMeAI](https://github.com/VictorBrasileiroo/Projeto_DoseMeAI)**  
-  Backend para gerenciamento de medicamentos e lembretes, com autenticação JWT, documentação Swagger e deploy com Docker Compose.
 
 - **[Ilumina](https://github.com/VictorBrasileiroo/projeto_ilumina_p3)**  
-  Plataforma educacional com geração automática de avaliações e flashcards via LLM, gerenciamento de turmas e publicação de conteúdo.
+  Plataforma educacional desenvolvida com Spring Boot e React, integrando modelos de linguagem para geração de avaliações e flashcards, autenticação, gestão de turmas e publicação de conteúdos.
+
+- **[DoseMeAI](https://github.com/VictorBrasileiroo/Projeto_DoseMeAI)**  
+  Aplicação de gerenciamento de medicamentos e lembretes, com API REST em Spring Boot, autenticação JWT, integração com serviço de e-mails, persistência em PostgreSQL e ambiente containerizado com Docker.
 
 - **[Observatório de Permanência](https://github.com/VictorBrasileiroo/Projeto_Observatorio_de_Permanencia)**  
-  Plataforma para predição e monitoramento de risco de evasão estudantil, combinando API backend, dashboard e machine learning aplicado.
+  Plataforma de análise preditiva do risco de evasão estudantil, combinando modelos de Machine Learning, API REST com Django e dashboard interativo para acompanhamento de indicadores educacionais.
 
 ## 🌐 Links
+
 - **[Portfólio](https://portifoliovictorbrasileiroo.netlify.app/)**
 - **[LinkedIn](https://www.linkedin.com/in/victorbrasileirooo/)**
 - **[E-mail](mailto:dev.victorbrasileiroo@gmail.com)**
 
 ## 📚 Atualmente
-- Aprofundando conhecimentos em backend com **Java/Spring Boot**
-- Desenvolvendo projetos com **Python** e dados aplicados
-- Evoluindo minha base em arquitetura, APIs e sistemas orientados a dados
+
+- Desenvolvendo soluções de software com foco em backend e integração de Inteligência Artificial.
+- Pesquisando modelos estatísticos e de Machine Learning aplicados.
+- Investigando LLMs locais e compactos para geração de feedbacks pedagógicos, com foco em experimentação, avaliação e eficiência computacional.
